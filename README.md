@@ -1,5 +1,5 @@
 # cookie-stand-admin
-[PR]()
+[PR](https://github.com/RazanArmouti/cookie-stand-admin/pull/1)
 
 
 # Next.js + Tailwind CSS Example
