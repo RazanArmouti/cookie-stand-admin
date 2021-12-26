@@ -1,7 +1,7 @@
 import { createContext, useContext, useState } from 'react';
 import jwt from 'jsonwebtoken';
 import axios from 'axios'
-const tokenUrl = process.env.NEXT_PUBLIC_API_AUTH;
+const tokenUrl =  process.env.NEXT_PUBLIC_API_AUTH;
 
 const AuthContext = createContext();
 
